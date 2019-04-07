@@ -15,7 +15,7 @@ An extremely well tested and commented classic red black tree implementation.Sup
 * deletion
 
 ## Screenshot
-![Alt text](https://ibb.co/pz3tkXs)
+![Alt text](https://i.ibb.co/LtCLspq/redblack.jpg)
 
 ## Notice
 Does not support duplicate values
